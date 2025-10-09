@@ -1,0 +1,39 @@
+
+body{
+    text-align: center;
+    background-color: rgb(168, 63, 131);
+}
+.small-links {
+    text-align: left;
+    display: block;
+    font-size: 4vw;
+}
+h1{font-size: 10vw;}
+
+.main-links {
+    font-size: 6vw;
+    height: auto;
+}
+
+img.fluid-constrained {
+  width: clamp(150px,70vw, 600px);
+    height: auto;
+    border: 1vw solid rgb(168, 63, 131);
+}
+.top-section {
+    background-color: rgb(249, 193, 193);
+    padding: 2vw;
+    border-radius: 2vw;
+    margin-bottom: 4vw;
+}
+.bottom-section {
+    background-color: rgb(249, 193, 193);
+    padding: 2vw;
+    border-radius: 2vw;
+    margin-top: 4vw;
+}
+br{color: black;
+    font-size: 4vw;
+    line-height: 4vw;
+    font-weight: bold;}
+    
