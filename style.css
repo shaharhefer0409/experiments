@@ -33,9 +33,10 @@ img.fluid-constrained {
 .bottom-section {
     background-color: rgb(249, 193, 193);}
 
-@media (min-width: 758px) {
+@media (min-width: 600px) {
 h1 {font-size: 6rem;}
 .main-links {font-size: 4rem;}
 .small-links {font-size: 2rem;}
 .content-wrapper {text-align: left;}
+
 }
